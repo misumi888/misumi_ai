@@ -1,7 +1,3 @@
-# DegenArcAI
-
-A re-write of [DegenSpartanAI](https://github.com/lalalune/DegenSpartanAI/tree/main "DegenSpartanAI") by [Shaw](https://github.com/lalalune "Shaw") in Rust using [rig](https://github.com/0xPlaygrounds/rig/tree/main "rig") for AI agent functionality.
-
 > [!NOTE]  
 > This agent is in beta and is tested and live on this twitter. Feel free to make suggestions/commits on how it can be improved for better functionality.
 
